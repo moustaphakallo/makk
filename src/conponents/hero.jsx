@@ -702,8 +702,8 @@ function Footer() {
         <div>
           <p className="mb-4 font-medium text-white">Support</p>
           <ul className="space-y-2 text-neutral-400">
-            <li>111 Lagos, Nigeria</li>
-            <li>[email protected]</li>
+            <li>140 conakry tomboliya</li>
+            <li>[email MoustaphaKllo@gmail.com]</li>
             <li>+224661615859</li>
           </ul>
         </div>
