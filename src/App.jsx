@@ -1,6 +1,6 @@
 import "./App.css";
-import Storefront from "./conponents/Storefront.jsx";
+import ECommerceHome from "./conponents/hero.jsx";
 
 export default function App() {
-  return <Storefront />;
+  return <ECommerceHome />;
 }
