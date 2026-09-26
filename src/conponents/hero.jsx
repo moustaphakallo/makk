@@ -704,7 +704,7 @@ function Footer() {
           <ul className="space-y-2 text-neutral-400">
             <li>111 Lagos, Nigeria</li>
             <li>[email protected]</li>
-            <li>+234 800 000 0000</li>
+            <li>+224661615859</li>
           </ul>
         </div>
         <div>
